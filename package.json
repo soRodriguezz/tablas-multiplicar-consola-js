@@ -1,0 +1,15 @@
+{
+  "name": "generar-txt-tablamultiplicar",
+  "version": "1.0.0",
+  "description": "app para generar un txt con la tabla de multiplicar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  }
+}
